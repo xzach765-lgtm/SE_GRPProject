@@ -1,0 +1,38 @@
+Requirement:
+- Viewable lecture slides [Student]
+- Submitting homework [Student]
+- Be able to give tutor feedback [Student]
+- Allow consultation meetings [Struggling Student]
+- Able to message tutors or lecturers [Student]
+- Able to write a direct response under assignment in application [Student]
+
+- Be able to post lecture slides and tutorials [Lecturer]
+- Check attendances using the school WIFI [Lecturer]
+- Show the total percentage of attendances [Lecturer]
+
+
+
+Must have:
+As a student, I want a feature that could view lecture slides, so it allows us to learn after lecture finishes.
+As a student, I want a feature that could submit our homework, so that the lecturer could review.
+As a lecturer, I would want to post both lecture slides and tutorials, that way the students could do their own study.
+
+Should have:
+As a student, I want a feature that could give tutor feedback, that way the tutor should know what to improve on.
+As a Lecturer, I want a feature that could check attendances that uses the school WIFI, so it proves that the student is in school and not entering the attendance code at  anywhere else than school.
+As a lecturer, i want a feature that shows the total percentage of attendance, that way it proves they are attending to classes.
+
+Could have:
+As a struggling student ,I would like a feature that would allow me to set up consultation meeting with my tutor or lecturer. That way student can improve their understanding with the lecturer or tutor
+As a student, I want a feature that would allow the students to message the lecturers and tutors. That way students could contact them with any questions.
+As a student ,I would want to be allowed to write a direct submission response under assignments in the application instead of needing to submit another document for submission.
+
+Won’t have
+As a student,I would want a feature that could allow me to set up a study buddy.In order to for student to meet new people.
+As a student, I would want a feature that could allow students to edit  the UI of the application. That way the students can feel more comfortable using the application
+As a student,I want a feature that could allow facial recognition for log in.That makes students log in process faster.
+
+
+
+
+

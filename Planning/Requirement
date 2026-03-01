@@ -32,6 +32,28 @@ As a student,I would want a feature that could allow me to set up a study buddy.
 As a student, I would want a feature that could allow students to edit  the UI of the application. That way the students can feel more comfortable using the application
 As a student,I want a feature that could allow facial recognition for log in.That makes students log in process faster.
 
+Functional
+The system will allow students of when the lecturer post a new lecture slides or tutorials (maybe ask zack)
+The system will allow for lecturers to upload lecture slides and tutorials to their respective courses
+The system will have a messaging system so the students and lecturer could communicate with each other
+The system will have a submission system where students are allowed to send their work to a specific lecturer to be reviewed
+The system will have attendance system that will check submitted attendance if it is using the school WI FI 
+The system will allow students to view and download lecturer slides and tutorials
+The system will allow the students and lecturers to register or log in into an account
+The system will have a feedback system that allow students to submit feedback messages to a specific lecturer
+The system will allow students to schedule a consultation meeting with the lecturer they want to meet up with
+
+Non-Functional
+The system must be online and functional 24/7 
+The transference of data and information within the application must be under 3 second
+User login information,register information and user facial details or any personal user details must be encrypted and secure
+The  educational application must be portable through different software and devices such as  mobile application(IOS,Android) and desktop application (Windows ,Mac OS)
+The campus database should be fast and always available 24/7 
+The system must have an easy to navigate UI layout
+The system should display an error and apology messages if any error occurs
+
+
+
 
 
 

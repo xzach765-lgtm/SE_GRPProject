@@ -20,14 +20,19 @@
 ---
 
 ## Project Description
-Our main idea in this project is to ____________________________.
+Our main idea in this project is to   .
 
 ---
 
 ## Overview of SDLC Work
 
-- Planning  
-- Analysis  
-- Design  
-- Prototype Development  
+- Planning
+  - 
+- Analysis
+  -
+- Design
+  - 
+- Prototype Development
+  - 
 - Testing / Feedback
+  - 

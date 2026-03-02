@@ -1,5 +1,5 @@
 # Project Title & SDG Chosen
-**Quality Education (SDG 4)**
+** OurTime & Quality Education (SDG 4)**
 
 ---
 

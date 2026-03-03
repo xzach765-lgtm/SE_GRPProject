@@ -2,6 +2,7 @@ Must have:
 As a student, I want a feature that could view lecture slides, so it allows us to learn after lecture finishes.
 As a student, I want a feature that could submit our homework, so that the lecturer could review.
 As a lecturer, I would want to post both lecture slides and tutorials, that way the students could do their own study.
+As a student, I would want to be able to enter a attendances code in the application, that way we don't have to do it maunally.
 
 Should have:
 As a student, I want a feature that could give tutor feedback, that way the tutor should know what to improve on.
@@ -36,4 +37,5 @@ The educational application must be portable through different mobile software s
 The campus database should be fast and always available 24/7 
 The system must have an easy to navigate UI layout
 The system should display an error and apology messages if any error occurs
+
 

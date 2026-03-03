@@ -32,7 +32,8 @@ Non-Functional
 The system must be online and functional 24/7 
 The transference of data and information within the application must be under 3 second
 User login information,register information and user facial details or any personal user details must be encrypted and secure
-The  educational application must be portable through different software and devices such as  mobile application(IOS,Android) and desktop application (Windows ,Mac OS)
+The educational application must be portable through different mobile software such as IOS and Android
 The campus database should be fast and always available 24/7 
 The system must have an easy to navigate UI layout
 The system should display an error and apology messages if any error occurs
+

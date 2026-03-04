@@ -6,12 +6,14 @@ Requirement:
 - Able to message tutors or lecturers [Student]
 - Able to write a direct response under assignment in application [Student]
 
+[Wont Have for students]
+
 - Be able to post lecture slides and tutorials [Lecturer]
 - Check attendances using the school WIFI [Lecturer]
 - Show the total percentage of attendances [Lecturer]
 
 
-
+[Wont have for lecturer]
 
 
 

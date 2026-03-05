@@ -12,4 +12,7 @@ Project plan:
 *Calum Paul Lopez:
 *Tan Yong Hong:
 
+-SDLC overview:
+*Requirement:
+
 

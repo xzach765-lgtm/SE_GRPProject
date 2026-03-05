@@ -1,20 +1,29 @@
 Requirement:
-- Viewable lecture slides [Student]
-- Submitting homework [Student]
-- Be able to give tutor feedback [Student]
-- Allow consultation meetings [Struggling Student]
-- Able to message tutors or lecturers [Student]
-- Able to write a direct response under assignment in application [Student]
+[Student]
+- Viewable lecture slides 
+- Submitting homework 
+- Be able to give tutor feedback 
+- Allow consultation meetings 
+- Able to message tutors or lecturers 
+- Able to write a direct response under assignment in application
 
 [Wont Have for students]
--
+- Allow students to view other student's grades
+- Allow students to integrate third party tools
+- Allow students to create new courses and syallabus
+- Allow students to edit lecturer's annoucements
+- Allow students to download system database
+- Allow students to modify and edit lecturer's profile
+- Allow students to schedule classes and modify timetable
+- Allow students to change the assignment submission deadline
+- Allow students to generate attendance code 
+- Allow students to approve other student's assignment submissions
 
 
-
-- Be able to post lecture slides and tutorials [Lecturer]
-- Check attendances using the school WIFI [Lecturer]
-- Show the total percentage of attendances [Lecturer]
-
+[Lecturer]
+- Be able to post lecture slides and tutorials 
+- Check attendances using the school WIFI
+- Show the total percentage of attendances
 
 [Wont have for lecturer]
 - Allow lecturers to grant themselves higher system permission
@@ -22,7 +31,11 @@ Requirement:
 - Allow lecturers to modify student's tutor feedback
 - Allow lecturers to edit student's information
 - Allow lecturers to delete students from the system
-- Allow 
+- Allow lecturers to view private messages between students
+- Allow lecturers to disable nofication systems for students
+- Allow lecturers to change system security and login methods
+- Allow lecturers to create new roles permissions
+- Allow lecturers to change system language and global application settings
 
 
 

@@ -6,14 +6,23 @@ Requirement:
 - Able to message tutors or lecturers [Student]
 - Able to write a direct response under assignment in application [Student]
 
-[Wont Have for students]FUCKJ YOU
+[Wont Have for students]
+-
+
+
+
 - Be able to post lecture slides and tutorials [Lecturer]
 - Check attendances using the school WIFI [Lecturer]
 - Show the total percentage of attendances [Lecturer]
 
 
 [Wont have for lecturer]
-
+- Allow lecturers to grant themselves higher system permission
+- Allow lecturers to change student's grade after they are finalised
+- Allow lecturers to modify student's tutor feedback
+- Allow lecturers to edit student's information
+- Allow lecturers to delete students from the system
+- Allow 
 
 
 

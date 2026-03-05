@@ -23,8 +23,8 @@ Project plan:
 -Sprint 1:
 *Requirement:We plan to add the MUST HAVE features/requirements first
 *analysis:Understing the MUST HAVE requirements
-*Design:We will use Use Case and UML diagram to plan out the system architecture
-*Implementation:We will use Figma to make a Wire frame layout of our application
+*Design:We will use Use Case and class diagram to plan out the system architecture
+*Implementation:We will use Figma to make a wireframe layout of our application
 Testing:We will Figma to make the first prototype based on our wireframe
 
 -Sprint 2:

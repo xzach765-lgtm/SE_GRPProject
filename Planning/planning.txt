@@ -5,14 +5,38 @@
 Provides the requirements: Lorem Ipsum
 
 Tello links:  https://trello.com/invite/b/6999bfb822451fc766265d7d/ATTI0ca46c9710fe9eaa13b65a328ec3638973CEC8F6/se-trello
+Use Trello to make an organize management system
 Project plan:
+
 -seperate tasks:
 *Tan Kar Hao:
 *Woon Kee Ven:
 *Calum Paul Lopez:
 *Tan Yong Hong:
 
--SDLC overview:
-*Requirement:
+-Requirement planning:
+*Requirement:We plan to gather user requirement through google froms and let the reespondents write requirements for us to take note and review
+*Analysing the requirements:We plan to read and understand the requirement and list them down and set their priorities based on the MoS CoW principle
+
+-SDLC note sprints note:
+
+-Sprint 1:
+*Requirement:We plan to add the MUST HAVE features/requirements first
+*analysis:Understing the MUST HAVE requirements
+*Design:We will use Use Case and UML diagram to plan out the system architecture
+*Implementation:We will use Figma to make a Wire frame layout of our application
+Testing:We will Figma to make the first prototype based on our wireframe
+
+-Sprint 2:
+*Requirement:We plan to add the COULD HAVE AND SHOULD HAVE features/requirements 
+*analysis:Understanding the COULD HAVE and SHOULD HAVE requirements
+*Design:Add on COULD HAVE and SHOULD HAVE features into the UML and Use Case diagram
+*Implementation:We will use the same Figma wireframe layout and add on the new SHOULD HAVE and COULD HAVE features
+*Testing:We will imrpoved on our first prototype with the new wirefarme
+
+
+
+
+
 
 

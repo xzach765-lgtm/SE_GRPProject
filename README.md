@@ -20,7 +20,9 @@
 ---
 
 ## Project Description
-Our main idea in this project is to   .
+Our main idea in this project is to develop a practical academic system designed to support both students and lecturers. The system aims to improve communication, acessibility of learning materials, and assignment management all in one single platform. First of all, the system will allow students to have access to all learning materials such as lecture slides and tutorials, submiting their assignments through a fast and secure platform, able to provide lecturer feedback and message them directly through a safe and private messaging system and book a consultation apointment directly from them. As for lecturers, the system allows them to upload teaching materials, create and manage assignments, review student's assignments and provide feedback effectively.
+
+By integrating these acedemic core functions into one single platform, the system enhances productivity and learning effectiveness for both student and lecturers while leaving focused only on core features defined in the project scope.
 
 ---
 

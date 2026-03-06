@@ -8,11 +8,11 @@ Tello links:  https://trello.com/invite/b/6999bfb822451fc766265d7d/ATTI0ca46c971
 Use Trello to make an organize management system
 Project plan:
 
--seperate tasks:
-*Tan Kar Hao:
-*Woon Kee Ven:
-*Calum Paul Lopez:
-*Tan Yong Hong:
+-Separate tasks:
+*Tan Kar Hao: Requirement/Planning, Analysis, GitHub Evidence, Reflection
+*Woon Kee Ven: Prototype Development, Testing/Feedback, GitHub Evidence, Reflection, 
+*Calum Paul Lopez: Abstract, Project Introduction, Planning/Requirement, GitHub Evidence. Conclusion 
+*Tan Yong Hong: Trello Useage, Requirement/Planning, Analysis, Design, GitHub Evidence, Reflection, Conclusion
 
 -Requirement planning:
 *Requirement:We plan to gather user requirement through google froms and let the reespondents write requirements for us to take note and review

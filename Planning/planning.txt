@@ -30,9 +30,16 @@ Testing:We will Figma to make the first prototype based on our wireframe
 -Sprint 2:
 *Requirement:We plan to add the COULD HAVE AND SHOULD HAVE features/requirements 
 *analysis:Understanding the COULD HAVE and SHOULD HAVE requirements
-*Design:Add on COULD HAVE and SHOULD HAVE features into the UML and Use Case diagram
+*Design:Add on COULD HAVE and SHOULD HAVE features into the class diagram and Use Case diagram
 *Implementation:We will use the same Figma wireframe layout and add on the new SHOULD HAVE and COULD HAVE features
-*Testing:We will imrpoved on our first prototype with the new wirefarme
+*Testing:We will improve on our first prototype with the new wireframe
+
+-Sprint 3:
+*Requirement:We plan to add the COULD HAVE features/requirements
+*Analysis:Understanding the COULD HAVE requirements
+*Design: Add on COULD HAVE features into the Use Case diagrams and class diagram
+*Implementation: We will use the same Figma first prototype and add on the new COULD HAVE features
+*Testing: We will improve on our final prototype with the first prototype that will be done
 
 
 

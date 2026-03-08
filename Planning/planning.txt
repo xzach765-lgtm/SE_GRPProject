@@ -22,24 +22,24 @@ Project plan:
 
 -Sprint 1:
 *Requirement:We plan to add the MUST HAVE features/requirements first
-*analysis:Understing the MUST HAVE requirements
-*Design:We will use Use Case and class diagram to plan out the system architecture
-*Implementation:We will use Figma to make a wireframe layout of our application
-Testing:We will Figma to make the first prototype based on our wireframe
+*analysis:Understing the MUST HAVE requirements.We will use Use Case and class diagram to plan out the main functional interaction of the system
+*Design:We will use Figma to make a wireframe layout of our application
+*Implementation:We will Figma to make the first prototype based on our wireframe
+Testing:We link our figma prototype into a feedback form and let people review it and improve the prototype based on the feedbacks
 
 -Sprint 2:
 *Requirement:We plan to add the COULD HAVE AND SHOULD HAVE features/requirements 
-*analysis:Understanding the COULD HAVE and SHOULD HAVE requirements
-*Design:Add on COULD HAVE and SHOULD HAVE features into the class diagram and Use Case diagram
-*Implementation:We will use the same Figma wireframe layout and add on the new SHOULD HAVE and COULD HAVE features
-*Testing:We will improve on our first prototype with the new wireframe
+*analysis:Understanding the COULD HAVE and SHOULD HAVE requirements.Add on COULD HAVE and SHOULD HAVE features into the class diagram and Use Case diagram
+*Design:We will use the same Figma wireframe layout and add on the new SHOULD HAVE and COULD HAVE features
+*Implementation:We will improve on our first prototype with the new wireframe and new features
+*Testing:We link our second figma prototype into a feedback form and let people review it and improve the prototype based on the feedbacks
 
 -Sprint 3:
 *Requirement:We plan to add the COULD HAVE features/requirements
-*Analysis:Understanding the COULD HAVE requirements
-*Design: Add on COULD HAVE features into the Use Case diagrams and class diagram
-*Implementation: We will use the same Figma first prototype and add on the new COULD HAVE features
-*Testing: We will improve on our final prototype with the first prototype that will be done
+*Analysis:Understanding the COULD HAVE requirements.Add on COULD HAVE features into the Use Case diagrams and class diagram
+*Design:  We will use the same Figma wireframe and add on the new COULD HAVE features
+*Implementation: We will use the same Figma prototype and add on the new COULD HAVE features based on the latest wireframe
+*Testing:We link our final figma prototype into a feedback form and let people review it and improve the prototype based on the feedbacks
 
 
 

@@ -32,14 +32,8 @@ Testing:We link our figma prototype into a feedback form and let people review i
 *analysis:Understanding the COULD HAVE and SHOULD HAVE requirements.Add on COULD HAVE and SHOULD HAVE features into the class diagram and Use Case diagram
 *Design:We will use the same Figma wireframe layout and add on the new SHOULD HAVE and COULD HAVE features
 *Implementation:We will improve on our first prototype with the new wireframe and new features
-*Testing:We link our second figma prototype into a feedback form and let people review it and improve the prototype based on the feedbacks
-
--Sprint 3:
-*Requirement:We plan to add the COULD HAVE features/requirements
-*Analysis:Understanding the COULD HAVE requirements.Add on COULD HAVE features into the Use Case diagrams and class diagram
-*Design:  We will use the same Figma wireframe and add on the new COULD HAVE features
-*Implementation: We will use the same Figma prototype and add on the new COULD HAVE features based on the latest wireframe
 *Testing:We link our final figma prototype into a feedback form and let people review it and improve the prototype based on the feedbacks
+
 
 
 

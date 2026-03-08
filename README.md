@@ -35,6 +35,6 @@ By integrating these acedemic core functions into one single platform, the syste
 - Design
   - 
 - Prototype Development
-  - 
+  - We have develop a basic WireFrame with a basic design as well as basic transitions and animations.
 - Testing / Feedback
   - 

@@ -6,16 +6,16 @@
 ## Team Members
 
 - **Tan Yong Hong**  
-  (Trello Usage, Planning, Design, GitHub Evidence, Reflections)
+  (Trello Useage, Requirement/Planning, Analysis, Design, GitHub Evidence, Reflection, Conclusion)
 
 - **Woon Kee Ven**  
-  (Planning, Analysis, Prototype Showcase, GitHub Evidence, Reflections)
+  (Prototype Development, Testing/Feedback, GitHub Evidence, Reflection)
 
 - **Tan Kar Hao**  
-  (Planning, Prototype Development, GitHub Evidence, Reflection)
+  (Requirement/Planning, Analysis, GitHub Evidence, Reflection)
 
 - **Calum Paul Lopez**  
-  (Project Introduction, Planning, Testing/Feedback, GitHub Evidence, Reflection, Conclusion)
+  (Abstract, Project Introduction, Planning/Requirement, GitHub Evidence. Conclusion)
 
 ---
 

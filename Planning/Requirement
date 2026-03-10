@@ -7,17 +7,6 @@ Requirement:
 - Able to message tutors or lecturers 
 - Able to write a direct response under assignment in application
 
-[Wont Have for students]
-- Allow students to view other student's grades
-- Allow students to integrate third party tools
-- Allow students to create new courses and syallabus
-- Allow students to edit lecturer's annoucements
-- Allow students to download system database
-- Allow students to modify and edit lecturer's profile
-- Allow students to schedule classes and modify timetable
-- Allow students to change the assignment submission deadline
-- Allow students to generate attendance code 
-- Allow students to approve other student's assignment submissions
 
 
 [Lecturer]

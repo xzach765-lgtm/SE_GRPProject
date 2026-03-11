@@ -29,9 +29,9 @@ By integrating these acedemic core functions into one single platform, the syste
 ## Overview of SDLC Work
 
 - Planning
-  - We, as a team, gathered stakeholder's requirement by using a Google form that we created. Our team would have to identify the votes of the majority and differentiate which is Must have, Should have, Could have and Won't have. After collecting the responses, we analsed the features suggested by students and lecturers to understand what functionalities are most crucial for the educational application. The team then categorised the requirements into Functional Requirement and Non-Requirement. This planning process helps the team clarify identify the system scope, priotising vital features and ensure that the development process focuses on the most essential requirements first
+  - We, as a team, gathered stakeholder's requirement by using a Google form that we created. Our team would have to identify the votes of the majority and differentiate which is Must have, Should have, Could have and Won't have. After collecting the responses, we analysed the features suggested by students and lecturers to understand what functionalities are most crucial for the educational application. The team then categorised the requirements into Functional Requirement and Non-Requirement. This planning process helps the team clarify identify the system scope, priotising vital features and ensure that the development process focuses on the most essential requirements first
 - Analysis
-  -
+  - 
 - Design
   - 
 - Prototype Development

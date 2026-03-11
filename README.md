@@ -1,4 +1,4 @@
-# Project Title & SDG Chosen
+# OurATime & SDG Chosen
 ** OurTime & Quality Education (SDG 4)**
 
 ---

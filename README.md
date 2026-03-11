@@ -12,10 +12,10 @@
   (Prototype Development, Testing/Feedback, GitHub Evidence, Reflection)
 
 - **Tan Kar Hao**  
-  (Requirement/Planning, Analysis, GitHub Evidence, Reflection)
+  (Requirement/Planning, Prototype Development ,Analysis, GitHub Evidence, Reflection)
 
 - **Calum Paul Lopez**  
-  (Abstract, Project Introduction, Planning/Requirement, GitHub Evidence. Conclusion)
+  (Abstract, Project Introduction, Planning/Requirement, Testing/Feedback ,GitHub Evidence. Conclusion)
 
 ---
 

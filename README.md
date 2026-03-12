@@ -6,7 +6,7 @@
 ## Team Members
 
 - **Tan Yong Hong**  
-  (Trello Useage, Requirement/Planning, Analysis, Design, GitHub Evidence, Reflection, Conclusion)
+  (Trello Usage, Requirement/Planning, Analysis, Design, GitHub Evidence, Reflection, Conclusion)
 
 - **Woon Kee Ven**  
   (Prototype Development, Testing/Feedback, GitHub Evidence, Reflection)
